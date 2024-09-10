@@ -1,0 +1,73 @@
+- Red: Represents bold, powerful, intense color, heat and conveys string emotion. Danger and Action.
+       User where User's attention is a must, Error Message, CTA/Call to Action Error
+- Orange; Adventure, Warmth, Success. sometimes safer option for CTAs
+- Red can create a sense of urgency or passion, while blue can be calming or trustworthy
+- Warm colors include red, orange, and yellow, and variations of those three colors. Use warm colors in your designs to reflect passion, happiness, enthusiasm, and energy.
+- orange can represent change and movement in general. Orange is also strongly associated with creativity.
+- Cool colors include green, blue, and purple, are often more subdued than warm colors. They are the colors of night, of water, of nature, and are usually calming, relaxing, and somewhat reserved.
+- Purple is a combination of red and blue and takes on some attributes of both. It’s associated with creativity and imagination, too.
+- In design, dark purples can give a sense wealth and luxury. Light purples are softer and are associated with spring and romance.
+- Neutral colors often serve as the backdrop in design. They’re commonly combined with brighter accent colors. 
+- Gray is a neutral color, generally considered on the cool end of the color spectrum. It can sometimes be considered moody or depressing. Light grays can be used in place of white in some designs, and dark grays can be used in place of black.
+
+    Red: Passion, Love, Anger
+    Orange: Energy, Happiness, Vitality
+    Yellow: Happiness, Hope, Deceit
+    Green: New Beginnings, Abundance, Nature
+    Blue: Calm, Responsible, Sadness
+    Purple: Creativity, Royalty, Wealth
+    Black: Mystery, Elegance, Evil
+    Gray: Moody, Conservative, Formality
+    White: Purity, Cleanliness, Virtue
+    Brown: Nature, Wholesomeness, Dependability
+    Tan or Beige: Conservative, Piety, Dull
+    Cream or Ivory: Calm, Elegant, Purity
+
+- When to Use Which Color: https://99designs.com/blog/creative-inspiration/psychology-color-web-design/
+
+** Branding Using One Color: Like Blue Color got a Brand Value for Facebook
+- Brighter colors typically catch attention, while darker ones are often used for secondary information.
+- While color psychology is an essential consideration in UX design, designers also need to ensure that their designs are accessible to all users, including those with color vision deficiencies.
+
+
+**Hue: Denotes an Object's Color. When we say “blue,” “green,” or “red,” we’re talking about hue.
+**Chroma: Chroma refers to the purity of a color. A hue with high chroma has no black, white, or gray added to it. Conversely, adding white, black, or gray reduces its chroma. It’s similar to saturation but not quite the same. Chroma can be thought of as the brightness of a color in comparison to white.
+** Combining a variety of hues with the same chroma creates a harmonious background pattern.
+** Saturation: Saturation refers to how a hue appears under particular lighting conditions. 
+** Value: Value could also be called “lightness.” It refers to how light or dark a color is. Lighter colors have higher values.
+**Tones: Tones are created when gray is added to a hue. Tones are generally duller or softer-looking than pure hues.
+** Shade: A shade is created when black is added to a hue, making it darker. In design, very dark shades are sometimes used instead of black and can serve as neutrals. Combining shades with tints or lighter neutrals is best to avoid too dark and heavy a look.
+** Tints: A tint is formed when white is added to a hue, lightening it. Very light tints are sometimes called pastels, but any pure hue with white added to it is technically a tint, even if the color is still quite bright. Tints are often used to create feminine or lighter designs.
+       Hue is color (blue, green, red, etc.).
+       Chroma is the purity of a color (a high chroma has no added black, white or gray).
+       Saturation refers to how strong or weak a color is (high saturation being strong).
+       Value refers to how light or dark a color is (light having a high value).
+       Tones are created by adding gray to a color, making it duller than the original.
+       Shades are created by adding black to a color, making it darker than the original.
+       Tints are created by adding white to a color, making it lighter than the original.
+
+
+**Creating Own Color Schemas:
+  - Monochromatic: Monochromatic color schemes are made up of different tones, shades and tints within a specific hue.
+  - Analogous:  Analogous schemes are created by using three colors that are next to each other on the 12-spoke color wheel. Traditionally, analogous color schemes all have the same chroma level, but by using tones, shades, and tints we can add interest to these schemes and adapt them to our needs for designing websites.
+  - Complementary: Complementary schemes are created by combining colors from opposite sides of the color wheel. In their most basic form, these schemes consist of only two colors, but can easily be expanded using tones, tints, and shades.
+  - Split Complementary: instead of using colors that are opposites, you use colors on either side of the hue opposite your base hue.
+  - Triadic: Triadic schemes are made up of hues equally spaced around the 12-spoke color wheel. 
+  - Tetradic/double-complementary
+  - Custom: A custom scheme isn’t based on any formal rules.
+
+- Base Color and Accent Color Find (https://paletton.com/#uid=13X0u0kllllaFw0g0qFqFg0w0aF)
+- We use accent color little bit like call to action etc in a website
+- Find Color- Dribble, Designinspiration
+
+- Custom Color Making Ideas:
+       1. Choose a Base Color (Brand Color or Logo Color or Color that can Fit with Web Content or Users)
+       2. Choose Accent Color for the Base Color. The less you use this color, the more it will stand out.
+       3. Use white, dark grey and light grey with Base Color. The dark is usually used for text, and the light for when you need subtle differentiation against all that white (usually for backgrounds).
+       4. Use Photoshop to Mix those 3 colors with Base Color. These 5 colors can make a custom scheme.
+       5. It is important to note than when using color and text you need to ensure that there is sufficient contrast between the background and the copy. 
+       6. Use WebAim Color Contrast Checker.
+
+- Make sure color contrast is accessible for all: https://www.smashingmagazine.com/2014/10/color-contrast-tips-and-tools-for-accessibility/
+
+- About HEX Color: https://www.smashingmagazine.com/2012/10/the-code-side-of-color/
