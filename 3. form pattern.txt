@@ -1,0 +1,16 @@
+1. Live or Inline Validation:
+   - Avoid Premature Validation (When User Focus or Type)
+   - As it turns out in usability testing, users sincerely appreciate both — the live validation and the late validation — if things go perfectly smoothly. 
+   - Live validation always interrupts users, often kicks in too early or too late, isn’t reliable enough
+   - Late validation almost always performs better. It’s just that by validating late, we can be more confident that the user isn’t still in the process of typing the data in the input field.
+   - Validate Empty Fields Only On Submit
+   - Reward Early, Punish Late: if a user edits an erroneous field, we should be validating immediately, removing the error message and confirming that the mistake has been fixed as soon as possible .
+     However, if the input was valid already and it is being edited, it’s probably better to wait until the user moves to the next input field and flag the errors then 
+   -  Add the Clean Up Feature when user Copy Paste if Need for Validation (like bd phone number he copied 00170, we remove first 0 and notify him)
+   - Allow Users to Override Live Validation if Need (Got Error, But say If You are sure continue with your input)
+   - For Short Forms, Consider Validation on Submit Only
+   - Live Validation seems to be most effective when mistakes are common and quite severe. Ex:  a password strength meter.
+   - With just-in-time validation, reward-early-punish-late-pattern and validating on submit, we avoid unnecessary distractions, complex logic and layout shifts altogether, and communicate errors without annoying users too early or too late.
+2. Some Form UI:
+   - https://premium.zeit.de/bestellung/1597905#details
+   - 
