@@ -1,0 +1,19 @@
+1. Navigation for Mobile: we often think about hamburger menus, full-page overlays, animated slide-in-menus, and a wide range of nested accordions. Not all of these options perform well
+   - Avoid too many icons guiding users in too many directions.
+   - Another way to indicate multiple levels of nesting is by adding different types of icons to make it more obvious where users currently are or different design for each level
+   - Don’t Overload Your Navigation With Multiple Actions (like menu- submenu, You clicked menu icon for submenu and also if menu clicked it will go to another page. Rather than, menu link provide in submenu)
+   - Use the Billboard Pattern for Top Tasks or for More Important Menu
+   - A slide-in menu is an option but rarely the best one.
+   - The Navigation Stack Works For Quick Jumps
+   - Use Curtain Pattern To Show Multiple Levels of Navigation
+   - We could also add navigation queries to ask users about their intent, and allow them to choose a topic relevant to them. Think about it as a mini-search engine for your navigation, designed as a seamless autocomplete experience. 
+   - Whenever possible, make links obvious by underlining them.
+
+2. My Fav Navigation Design Patterns for Mobile:
+    - Billboard and Slide in Pattern and Hover State: https://www.deutschepost.de
+    - Navigation Stack: https://www.coolblue.nl/en/mobile-phones/smartphones
+    - Curtain Pattern: https://www.lcfc.com
+                       https://www.espn.in/
+    - With Autocomplete Input: https://www.cosmosdirekt.de/
+    - Best Desktop Experience with All Sub Menu Visible: https://www.koreapost.go.kr/
+    - Better Sub Level with Main Level Link: https://www.mammut.com/int/en
