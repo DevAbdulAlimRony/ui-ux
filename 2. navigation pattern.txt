@@ -17,3 +17,13 @@
     - With Autocomplete Input: https://www.cosmosdirekt.de/
     - Best Desktop Experience with All Sub Menu Visible: https://www.koreapost.go.kr/
     - Better Sub Level with Main Level Link: https://www.mammut.com/int/en
+
+3. Navigation Queries:
+   - Search for Category
+   - Sorting, Filtering Sidebar
+   - I want to Route Navigate by Dropdown: https://sbahn.berlin/tickets/
+   - Product Comarisn: https://www.productchart.com/smartphones/
+   - A-Z Index Pattern: listing all keywords on a single page (letter a to z as link or accordion, list links starts with that letter)
+                         Ex: https://www.uantwerpen.be/en/study/programmes/all-programmes/
+   - Tap-Ahead Autocomplete Pattern: We could drive users directly to relevant categories, specific products, brands, or even collections of items or records that we’ve prepared ahead of time.
+     Ex: https://www.prisma.fi/

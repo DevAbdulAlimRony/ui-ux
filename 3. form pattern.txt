@@ -11,6 +11,23 @@
    - For Short Forms, Consider Validation on Submit Only
    - Live Validation seems to be most effective when mistakes are common and quite severe. Ex:  a password strength meter.
    - With just-in-time validation, reward-early-punish-late-pattern and validating on submit, we avoid unnecessary distractions, complex logic and layout shifts altogether, and communicate errors without annoying users too early or too late.
+
 2. Some Form UI:
    - https://premium.zeit.de/bestellung/1597905#details
    - 
+
+3. Filter Pattern:
+   - Not enough proper filters and users shoot way over the comfortable range; too many filters and users end up with zero-results and abandon the site altogether.
+   - Avoid Tiny Scrollable Panes. An alternative option would be to show as many as 7–10 options at a time with an accordion that would expand and show all options on tap/click
+   - Can use Autocomplete together when Options are too many (https://bt.rozetka.com.ua/blenders/c80155/napryagenie-v163344=1551960;price=4538-8999;producer=bosch,braun,domotec/)
+   - Always Provide Text Input Fallback For Sliders (lik we give price range slider, also provide input box for manually input price)
+   - Never Freeze The UI On A Single Input. An obvious alternative is to hand over the decision to the user about when the results should be updated. That could mean adding an “Apply” button.
+     But it’s not necessarily the only option. Actually, as it turns out, we can do both: seeing up-to-date results while interacting with the filter without any delay. We just need to move from synchronous display of results to its asynchronous counterpart.
+   - Always Show Results Asynchronously
+   - Avoid Layout Shifts On Filter Input
+   - Display Filter Results overview and also clear button for each and clear all filter button above the results.
+   - you could even use floating filters, so as a customer scrolls down the page, the filters are still accessible all the time.
+   - Show The Number of Results On The “Apply” Button (https://www.galaxus.ch/en/s6/producttype/nutritional-supplements-3193?filter=off%3DRetail%7CInStock%2C18989%3D315669%7C333546%7C3967%7C351983%7C304251%7C336452%7C2528045%2C7089%3D940554%7C664811%7C940553%7C5499)
+   - Always add steppers (+/-) and text input fields when using sliders
+
+4. Rating and Reviews Pattern:

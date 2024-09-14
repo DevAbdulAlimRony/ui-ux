@@ -1,0 +1,14 @@
+1. Scanning Pattern:
+   - Users spend 80% of the time viewing the left half of a page
+   - The more things change, the more user stay the same. 
+   - Add heading and subheadings for structured scanning.
+   - Show keywords and key points early in your headings to improve scanning.
+   - F-Shape Pattern: Users start at the top left, read a few lines, and then start to scan vertically. 
+     Users first read horizontally, then read less and less until they start scanning vertically. The first lines of text and the first words on each line receive more attention.
+   - Layer-Cake Pattern: Users scan consistently across headings, with deliberate jumps into body text in between.
+   - Love at First Sight Pattern: Users are often “satisficers,” searching for what’s good enough, not exhaustive enough. In search results, they often fixate on a single result.
+   - Lawn-Mower Pattern: In tables, users start in the top left cell, move to the right until the end of the row, and then drop down to the next row, moving in the same pattern.
+   - Spotted Pattern: Skipping big chunks of text and focusing on patterns. Often happens in search when users look for specific words, shapes, links, dates, and so on.
+   - Marking Pattern: Eyes focus in one place as the mouse scrolls or a finger swipes. Common on mobile more than on desktop.
+   - Bypassing Pattern: Users deliberately skip the first words of the line when multiple lines start with the same word.
+   - Commitment Pattern: Reading the entire content, word by word. Happens when users are highly motivated and interested. Common for older adults.
