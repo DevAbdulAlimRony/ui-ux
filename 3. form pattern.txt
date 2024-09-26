@@ -30,4 +30,21 @@
    - Show The Number of Results On The “Apply” Button (https://www.galaxus.ch/en/s6/producttype/nutritional-supplements-3193?filter=off%3DRetail%7CInStock%2C18989%3D315669%7C333546%7C3967%7C351983%7C304251%7C336452%7C2528045%2C7089%3D940554%7C664811%7C940553%7C5499)
    - Always add steppers (+/-) and text input fields when using sliders
 
-4. Rating and Reviews Pattern:
+4. Better Error Message:
+   - Slip error is: User want to do a thing, but do another. T prevent this error, we can use recovery suggestions, suffix/prefix, forgiving format
+   - Mistake occurs when there is a mismatch between the mental model of a user and the system. To prevent, confirm destructive actions, set expectations
+     early on, allow users to change their mind, always provide a way out.
+   - Due to color vision deficiencies, it’s a good idea to always complement error messages with an icon
+   - Thick Vertical Red Line can be used at Left Side or That type of Common Indicator for your whole Site.
+   - Error Summary is a Good Idea. That summary can contain links to the areas in the form which contain errors, so users can jump there directly.
+   - The summary can appear on the top of the page, or just above the action button. Never place it under the button.
+   - Avoid Auto-Scrolling and Auto-Jumps
+   - Displaying error messages above input fields typically helps us avoid the accessibility issues
+   - Provide Examples Of Correct Input
+
+5. Authentication:
+   - Don't Disable Copy Paste for Password, use autocomplete='new-password', so browsers can prompt a strong auto-generated.
+   - Any Kind of Two Factor Authentication is better than Passwords.
+   - Check Password Strength (Ex. One lowercase, One Uppercase, One Number, One Special Character, 8 Chars Minimum)
+   - For Social Sign in, We can tell user which he used previous to Log in.
+   - It’s not a good idea to send randomly generated passwords via email and require a new password setup when a user finally manages to log in. That’s not secure, and it’s always a hassle. Instead, yet again, nudge users towards a 2FA setup, so they can recover access by accessing a code from the app installed on their phone or SMS
