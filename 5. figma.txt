@@ -1,0 +1,14 @@
+** Important Plugins:
+   - Vectary 3D elements; adding 3d mockups
+   - Stark: for accessibility
+   - Geenes: Color scale tool for accessibility
+   - Figmotion: Creating Animation
+   - Redlines: Measure quickly
+   - Chatrs Embedding- Chart
+   - Clean Documents - Clean project before handoff
+   - Color Palette: color pallete provide, generate pallete from image
+   - Arc : Curve your text
+   - HTML <> Figma: to html, css, react ..
+   - Figma to Low Code: To Vue.js
+   - Icons8: Icons Embedding
+   - Google Sheet: Copy Paste from Google Sheet in Design
